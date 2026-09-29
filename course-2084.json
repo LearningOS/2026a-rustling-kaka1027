@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-kaka1027",
-  "commit": "d2b25e8ac7fccb2485977b2baadcb14e7ec0515e",
-  "score": 31,
+  "commit": "05b00f5b8ba5f1d274a2f9b2db9beac2ae4a4d3b",
+  "score": 34,
   "totalScore": 110,
   "exercises": [
     {
@@ -219,23 +219,23 @@
     {
       "name": "structs1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "structs2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "structs3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "kaka1027",
-  "runId": "36448608760",
+  "runId": "36536772555",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
